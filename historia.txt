@@ -7,4 +7,7 @@ juan tiene 41 años y nacio en Colombia
 
 main 1
 
+
+main 2
+
 mañana nos enfocaremos en su vida laboral 
